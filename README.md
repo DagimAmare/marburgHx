@@ -1,5 +1,5 @@
 # Marburg Virus Outbreaks History Explorer
-
+<img src="marburgHxExplorer.jpg" alt="Marburg Hx Explorer Screenshot" width="500">
 ## Overview
 This interactive Shiny application visualizes historical Marburg virus outbreaks worldwide. Users can explore outbreak data by selecting different countries and time periods to see:
 - Interactive map highlighting affected regions
